@@ -15,7 +15,7 @@
   "ok": "确定",
   "name": "名字",
   "comment": "留言",
-  "eat-kano": "吃掉小鹿乃",
+  "eat-kano": "吃掉啦啦啦",
   "default-dfjk": "默认为DFJK",
   "default-20s": "默认为20秒",
   "game-title": "新概念音游",
@@ -31,13 +31,13 @@
   "home": "主页",
   "rank": "排行",
   "repo": "仓库",
-  "text-level-1": "试着好好练一下?",
-  "text-level-2": "TCL",
-  "text-level-3": "TQL",
+  "text-level-1": "有没有搞错啊?",
+  "text-level-2": "有没有认真学语文？",
+  "text-level-3": "打得好↗嘞↘",
   "text-level-4": "您",
   "text-level-5": "人?",
   "time-over": "倒计时多了",
-  "rank-title": "吃掉小鹿乃-排行榜",
+  "rank-title": "吃掉啦啦啦-排行榜",
   "query-record": "查询记录",
   "day-rank": "排行榜[日]",
   "week-rank": "排行榜[周]",
@@ -57,3 +57,4 @@
   "no-self-record": "没有找到 {name} 的记录(或被过滤)",
   "no-name-tip": "提示：你玩之前还没有填名字"
 }
+

@@ -20,7 +20,7 @@ _🦌 网页小游戏 🥛_
 |
 [线上版本](https://eat-lll.vercel.app)
 |
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
+[Vercel](https://eat-lll-hezebang.vercel.app/)
 
 ## 可选功能
 
